@@ -1,6 +1,3 @@
-// Kalama Kiefer
-// CS 151 , 11-11:50
-// Professor Edwards
 
 #include <iostream>
 
